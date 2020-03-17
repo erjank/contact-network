@@ -1,0 +1,16 @@
+graph contacts{
+Eric -- {Meghan Oliver Miles}
+Oliver -- {William Seth Amanda Benjamin}
+Oliver -- {Meghan Miles}
+Oliver -- {Linden Stella}
+Meghan -- {Miles}
+Meghan -- {William Seth Amanda Benjamin}
+Eric -- {Susie Paul Clare Brian Sara April}
+Susie -- {Santha Linden Stella}
+Susie -- {Oliver Miles Meghan}
+
+
+overlap=false
+splines=curved
+splines=true
+}
